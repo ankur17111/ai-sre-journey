@@ -1,0 +1,16 @@
+  557  ls -ltr
+  558  ls -al
+  559  echo "Bhai aaj se AI journey shuru" > greeting.txt
+  560  ls -ltr
+  561  cat greeting.txt
+  562  clear
+  563  ls -la
+  564  cp greeting.txt backup.txt
+  565  ls -ltr
+  566  mv backup.txt old.txt
+  567  ls -ltr
+  568  grep "AI" greeting.txt
+  569  grep "AI" -n greeting.txt
+  570  grep "AI" -w greeting.txt
+  571  clear
+  572  history
